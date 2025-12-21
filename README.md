@@ -17,9 +17,11 @@
     https://www.terminalgif.com
 -->
 
+<!--
 <div>
     <img src="./assets/about_vatsal.gif" alt="About Me Terminal GIF"/>
 </div>
+-->
 
 <!--
      Skills & tools I actively use
