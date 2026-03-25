@@ -41,12 +41,7 @@
     </a>
 </div>
 
-<!--
-     Recruiter / employer section
--->
 
-### Employer?
-> [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/1sm2KMNAlTlTkwFDYhkwf_q0i0KvSeYHp/view?usp=sharing" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9BB0C1&height=120&section=footer" alt="footer"/>
